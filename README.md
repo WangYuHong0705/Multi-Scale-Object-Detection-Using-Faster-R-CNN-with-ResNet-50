@@ -1,0 +1,2 @@
+# Multi-Scale-Object-Detection-Using-Faster-R-CNN-with-ResNet-50
+In this project, we implement an object detection system based on the Faster R-CNN framework using the PyTorch torchvision detection module.The model uses ResNet-50 as the backbone network for feature extraction.The backbone network is pre-trained on the COCO dataset, which provides rich visual features and improves detection performance.
